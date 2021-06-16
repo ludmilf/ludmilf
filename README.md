@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ludmilf
+- 👋 Hi, I’m Ludmil
 - 👀 I’m interested in software and electronics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python programmers and Arduino fans
