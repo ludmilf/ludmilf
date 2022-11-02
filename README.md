@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ludmil
 - 👀 I’m interested in software and electronics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python ML
 - 💞️ I’m looking to collaborate on Python programmers and Arduino fans
 - 📫 How to reach me: on Skype - filkov_l and mail - ludmil@europe.com
 
